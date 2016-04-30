@@ -1,0 +1,20 @@
+// export a function for doing addition
+
+exports.add = function(a,b) {
+	return a + b;
+};
+
+// export a function for doing subtraction
+export.subtract = function(a.b) {
+	return a - b	
+};
+
+// export a function for doing multiplication 
+export.multiply = function(a,b) {
+	return a * b
+};
+
+//export a function for doing division
+export.divide = function(a,b) {
+	return a / b
+}
